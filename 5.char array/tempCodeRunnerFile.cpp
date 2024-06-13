@@ -1,0 +1,1 @@
+int len = findLength(ch, 100);
